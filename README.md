@@ -1,16 +1,5 @@
 # Carl's Hass.io Add-ons for Home Assistant
 
-![Project Stage][project-stage-shield]
-![Maintenance][maintenance-shield]
-[![License][license-shield]](LICENSE.md)
-
-[![GitLab CI][gitlabci-shield]][gitlabci]
-[![Bountysource][bountysource-shield]][bountysource]
-![Awesome][awesome-shield]
-
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
-
 ## About
 
 Hass.io allows anyone to create add-on repositories to share their add-ons for
@@ -28,7 +17,7 @@ pretty easy. Follow [the official instructions][third-party-addons] on the
 website of Home Assistant, and use the following URL:
 
 ```txt
-https://github.com/hassio-addons/repository
+https://github.com/chalvorson/repository
 ```
 
 ## Add-ons provided by this repository
