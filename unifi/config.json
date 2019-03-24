@@ -1,6 +1,6 @@
 {
-  "name": "UniFi Controller v5.6.40",
-  "version": "latest",
+  "name": "UniFi Controller v5.6",
+  "version": "5.6",
   "slug": "unifi",
   "description": "Manage your legacy UniFi network using a web browser",
   "url": "https://github.com/chalvorson/addon-unifi",
