@@ -50,5 +50,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "image": "chalvorsonjr/unifi"
+  "image": "ryansch/unifi-rpi:5.6"
 }
